@@ -173,7 +173,7 @@ header .scroll .circle {
 }
 /* End Blog */
 /*Start Contact*/
-#contact btn:hover{
+#contact button .btn:hover{
   background-color:var(--main-color);
 }
 /*End Contact*/
@@ -192,3 +192,4 @@ header .scroll .circle {
 }
 
 /* End Footer  */
+

@@ -172,6 +172,11 @@ header .scroll .circle {
   padding-top: var(--scroll-padding);
 }
 /* End Blog */
+/*Start Contact*/
+#contact btn:hover{
+  background-color:var(--main-color);
+}
+/*End Contact*/
 /* Start Footer  */
 #footer .footer-icons a{
     display: inline-block;
@@ -185,4 +190,5 @@ header .scroll .circle {
 #footer .footer-icons a:hover{
     color: var(--main-color);
 }
+
 /* End Footer  */

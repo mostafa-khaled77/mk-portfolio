@@ -173,8 +173,8 @@ header .scroll .circle {
 }
 /* End Blog */
 /*Start Contact*/
-#contact .btn:first-child:active{
-  background-color:#e66480;
+#contact .btn:hover{
+  background-color:#e66480 !important;
   color:white;
 }
 /*End Contact*/
@@ -193,6 +193,7 @@ header .scroll .circle {
 }
 
 /* End Footer  */
+
 
 
 

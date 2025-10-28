@@ -14,7 +14,6 @@
 }
 body {
   font-family: var(--primary-font);
-  background-color : red;
 }
 h1,
 h2,
@@ -174,7 +173,8 @@ header .scroll .circle {
 }
 /* End Blog */
 /*Start Contact*/
-#contact .btn:hover{
+#contact .btn:hover,
+#contact .btn{
   background-color:#e66480 !important;
   color:white;
 }
@@ -194,6 +194,7 @@ header .scroll .circle {
 }
 
 /* End Footer  */
+
 
 
 

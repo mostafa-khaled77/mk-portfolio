@@ -173,8 +173,9 @@ header .scroll .circle {
 }
 /* End Blog */
 /*Start Contact*/
-#contact button .btn:hover{
-  background-color:var(--main-color);
+#contact .btn:hover{
+  background-color:#e66480;
+  color:white;
 }
 /*End Contact*/
 /* Start Footer  */
@@ -192,4 +193,5 @@ header .scroll .circle {
 }
 
 /* End Footer  */
+
 
